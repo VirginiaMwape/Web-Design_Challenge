@@ -1,2 +1,2 @@
-# Web-Design_Challenge
+# Web-Design-Challenge
 Web Homework
